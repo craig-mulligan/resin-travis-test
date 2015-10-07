@@ -1,4 +1,4 @@
 FROM resin/raspberrypi2-debian:jessie
 
-CMD echo Hello
+CMD echo 2nd test
 
