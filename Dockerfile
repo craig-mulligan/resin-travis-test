@@ -1,4 +1,4 @@
 FROM resin/raspberrypi2-debian:jessie
 
-CMD echo Hi
+CMD echo Hello
 
